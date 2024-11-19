@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/TzZeka/imageReadme/blob/main/image.jpg" /></p>
+<p align="center"><img src="hhttps://github.com/TzZeka/imageReadme/blob/main/GH-image.jpg" /></p>
 
 # Hi there, I'm Tsvetomir (Tzeka) 👋
 
