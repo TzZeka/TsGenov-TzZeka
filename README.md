@@ -38,5 +38,5 @@ Hello there! I am Tsvetomir, a JavaScript enthusiast and student at [SoftUni](ht
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TzZeka&theme=dark&show_icons=true&hide_border=true&count_private=true )
+
 ![GitHub Language Stats]( https://github-readme-stats.vercel.app/api/top-langs/?username=TzZeka&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TzZeka&theme=dark&hide_border=true)
